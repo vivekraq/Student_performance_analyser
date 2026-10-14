@@ -1,5 +1,4 @@
 # Student Performance Prediction | End-to-End ML & AWS CI/CD
-![Uploading image.png…]()
 
 
 An end-to-end Machine Learning project that predicts student performance using a trained ML model, Flask web application, Docker containerization, and AWS CI/CD services.
