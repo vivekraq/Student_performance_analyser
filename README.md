@@ -1,6 +1,6 @@
 # Student Performance Prediction | End-to-End ML & AWS CI/CD
 
-
+![NetworkSecurity Project Screenshot](sss.png)
 An end-to-end Machine Learning project that predicts student performance using a trained ML model, Flask web application, Docker containerization, and AWS CI/CD services.
 
 The project demonstrates how to organize an ML application, package it into a Docker image, and automate the build and image publishing process using AWS developer tools.
